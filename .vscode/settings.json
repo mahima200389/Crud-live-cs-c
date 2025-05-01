@@ -1,0 +1,8 @@
+{
+    "editor.hideCursorInOverviewRuler": false,
+    "screencastMode.keyboardOptions": {
+        "showCommandGroups": true
+    },
+    "screencastMode.mouseIndicatorSize": 27,
+    "window.autoDetectColorScheme": false
+}
